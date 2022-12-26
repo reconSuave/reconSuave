@@ -21,4 +21,4 @@ NOTE: this is NOT the sparse field approach as conceived by Yogesh, et al., and 
 >   💾 Legacy software
 
 
-*** Note: pull requests must be submitted in .83y format or equivalent: e.g., 2-byte integers stored little-endian Intel-style (least significant byte first). ***
+***Note: pull requests must be submitted in .83y format or equivalent: e.g., 2-byte integers stored little-endian Intel-style (least significant byte first).***
