@@ -23,4 +23,4 @@
 >   💾 Legacy software
 
 
-***Note: pull requests must be submitted in .83y format or equivalent: e.g., 2-byte integers stored little-endian Intel-style (least significant byte first).***
+***Attention: Pull requests must be submitted on IBM 026 Punch Cards by U.S. Registered or Certified Mails only. This policy will remain in effect until the local skid population is reduced to pre-2022 levels. Thank you.***
