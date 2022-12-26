@@ -1,14 +1,23 @@
 @reconSuave
 
-Currently working on my doctoral thesis: *"Novel methodologies for Roblox token extraction using sequential copy-paste operators: toward a robust model of skidding in nth-order, time-complex, non-binomial regression matrices of manifold surface type  
-2modR + R'."* 
+```
+                 ______      ______                       
+|`````````, |  .~      ~.  .~      ~.                     
+|'''|'''''  | |           |          |                    
+|    `.     | |           |          |                    
+|      `.   |  `.______.'  `.______.'                     
+                                                          
+                                  ____           ______   
+                          ..'''' |             .~      ~. 
+                       .''       |______      |           
+                    ..'          |            |           
+              ....''             |___________  `.______.' 
+                                                          
 
-NOTE: this is NOT the sparse field approach as conceived by Yogesh, et al., and R is NOT a Yogesh-Beasley matrix! Its modularity is order 2 which is both prime and even, which is not a sparse field, it is not even chiral! 
-
-***No more emails about this, please.*** 
+```
  
 
- I’m also interested in ...
+ I’m interested in ...
 
 >   🛠 Reverse engineering (RENG)
 
