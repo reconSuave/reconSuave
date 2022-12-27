@@ -10,7 +10,7 @@
  Recon.  Intel.  CatPictures. OpSec.
 ```
 
-The "C" also stands for "ComputerStuff."😒
+The "C" also stands for "computer" cuz I own one 😒
 
  I’m interested in / 
 >   
