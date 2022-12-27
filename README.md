@@ -22,7 +22,7 @@ The "C" also stands for "ComputerStuff."😒
 >   
 >   🔎 Open source intelligence / own a magnifying glass 
 >
->   📄 Secure document formats / 💿 Secure Optical Media / 
+>   📄 Secure document formats / 💿 Secure Optical Media / 🔏 turning "secure" things into in-secure things 
 >   
 >   🔓 only person to crack Bondi secure DJVU 
 >   (possibly also: only person who knows what it is)
