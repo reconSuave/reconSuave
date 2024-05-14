@@ -8,4 +8,6 @@ Remove DRM from Bondi Digital Publishing's *Cover to Cover* collections.
 ![PlayboyPDF Logo](https://github.com/reconSuave/PlayboyPDF/blob/main/logo.png)
 - [Convert *Playboy: Cover to Cover* to PDF](https://github.com/reconSuave/PlayboyPDF)
 
-⚠️ **New Yorker converter coming soon!**
+# ⚠️ Coming Soon
+- *New Yorker: Cover to Cover* converter
+- Web-based BondiReader replacement (browse directly from the DVD or DJVU files).
